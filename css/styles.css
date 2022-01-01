@@ -4,6 +4,10 @@ body {
   background-color: #EAFAFA;
   font-weight: bold;
 }
+.main-div{
+   height: 100%;
+  width: 100%;
+}
 .div1 {
   background-color: #fcebd4;
   font-family: "Sofia", sans-serif;
